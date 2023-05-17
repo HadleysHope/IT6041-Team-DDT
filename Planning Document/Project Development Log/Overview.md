@@ -7,7 +7,7 @@
 |  End Date  | 07/07/23 |
 
 
-| Client Name | SolarLife | solarlife.co.nz       |
+| Client Name | SolarLife        | solarlife.co.nz|
 | ------------------------------------------------|
 | Contact     | Marianos Brother | Via Mariano    |
 |-------------------------------------------------|
