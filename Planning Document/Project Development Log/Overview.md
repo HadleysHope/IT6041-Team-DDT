@@ -8,12 +8,12 @@
 
 
 | Client Name | SolarLife        | solarlife.co.nz|
-| ------------------------------------------------|
-| Contact     | Marianos Brother | Via Mariano    |
+| ------------|------------------|----------------|
+| Contact:    | Marianos Brother| Via Mariano   |
 
 
-| Project Team:                                   |
-
+| Project Team:       |                           |
+|---------------------|---------------------------|
 |Sammy John Rawlinson | sraw211@mywhitecliffe.com |
 |---------------------|---------------------------|
 |Mariano Estaban Ruiz | mrui211@mywhitecliffe.com |
