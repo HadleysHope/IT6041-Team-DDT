@@ -10,13 +10,15 @@
 | Client Name | SolarLife        | solarlife.co.nz|
 | ------------------------------------------------|
 | Contact     | Marianos Brother | Via Mariano    |
-|-------------------------------------------------|
+
+
 | Project Team:                                   |
-|-------------------------------------------------|
+
 |Sammy John Rawlinson | sraw211@mywhitecliffe.com |
+|---------------------|---------------------------|
 |Mariano Estaban Ruiz | mrui211@mywhitecliffe.com |
 |-------------------------------------------------|
-| Tutor:                                          |
+| Tutor:              |                           |
 |-------------------------------------------------|
 |Ying Chiu Goh        | yingg@whitecliffe.ac.nz   |
 
