@@ -6,6 +6,7 @@
 |------------|----------|
 |  End Date  | 07/07/23 |
 
+
 | Client Name | SolarLife | solarlife.co.nz       |
 | ------------------------------------------------|
 | Contact     | Marianos Brother | Via Mariano    |
@@ -18,4 +19,4 @@
 | Tutor:                                          |
 |-------------------------------------------------|
 |Ying Chiu Goh        | yingg@whitecliffe.ac.nz   |
-|-------------------------------------------------|
+
