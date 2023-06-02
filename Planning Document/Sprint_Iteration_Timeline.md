@@ -1,9 +1,9 @@
 # Sprint Iteration Timeline
 
-Sprint 1: Authentication - June7th - June14th.
-Sprint 2: Inventory Management - June14th - June21st.
-Sprint 3: Testing Login/Inventory Functionality - June21st - June28th.
-Sprint 4: Weather API + Testing - June28th - July5th.
+- Sprint 1: Authentication - June7th - June14th.
+- Sprint 2: Inventory Management - June14th - June21st.
+- Sprint 3: Testing Login/Inventory Functionality - June21st - June28th.
+- Sprint 4: Weather API + Testing - June28th - July5th.
 
 ## Sprint 1: Authentication
 
