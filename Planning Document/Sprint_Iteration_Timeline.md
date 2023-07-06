@@ -20,3 +20,28 @@
 - Setting up React Router
 - Login Page + Dashboard Setup
 
+## Sprint 2: Inventory Management
+
+- Develop Product + Category Collections
+- Connect Product + Category Collections
+- Develop Inventory Page
+- Routes from Inventory to Database
+- Create React Components for Inventory
+- Connect Front End to Backend
+
+## Sprint 3: Testing Login/Inventory Functionality
+
+- Implement Interface
+- Site Navigation + Layouts
+- Check Data Access
+- Unit Testing Non-Functional Requirements
+- Test Database Queries
+
+## Sprint 4: Weather API + Testing
+
+- Implement Weather API
+- Create Testing Plan
+- Overall Test Plan
+- UAT Test Cases
+- Usability Test Cases
+- Cross-Browser Testing
