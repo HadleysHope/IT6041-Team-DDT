@@ -7,6 +7,7 @@ This repository is the documentation and Project Proposal for 'SolarLifePlatform
 Check out the following repository for the SolarLifePlatform Web App: https://github.com/HadleysHope/SolarLifePlatform.git
 
 Check out the following repostiory for a presentation of the project : https://github.com/HadleysHope/SolarLifeProject_Presentation.git
+or link to live webpage: https://hadleyshope.github.io/SolarLifeProject_Presentation/
 
 ## Repository Contents
 
