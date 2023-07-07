@@ -12,6 +12,7 @@ Check out the following repostiory for a presentation of the project : https://g
 
 - Team Contract + Organization
 - Client Feedback
+- Elevator Pitch
 - Web Design Document
 - Wireframes + Mockups
 - Sprint Iteration
